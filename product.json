@@ -1,0 +1,66 @@
+[
+    {
+      "name": "iPhone 14 Pro",
+      "price": 999,
+      "description": "The latest model of Apple's flagship smartphone with advanced features and improved performance.",
+      "features": [
+        "A16 Bionic chip",
+        "ProMotion technology",
+        "Triple-camera system",
+        "Face ID"
+      ],
+      "rating": 4.5,
+      "company": "apple"
+    },
+    {
+      "name": "Google Pixel 7",
+      "price": 899,
+      "description": "Google's latest Pixel smartphone with cutting-edge AI features and exceptional camera quality.",
+      "features": [
+        "Google Tensor chip",
+        "Adaptive Battery",
+        "Titan M2 security",
+        "5G connectivity"
+      ],
+      "company": "google"
+    },
+    {
+      "name": "Meta Quest 3",
+      "price": 299,
+      "description": "The next-generation VR headset from Meta, providing an immersive virtual reality experience.",
+      "features": [
+        "High-resolution display",
+        "Advanced hand tracking",
+        "6 degrees of freedom",
+        "Wireless"
+      ],
+      "company": "meta"
+    },
+    {
+      "name": "Netflix Streaming Stick",
+      "price": 49,
+      "description": "A streaming device that offers access to Netflix's extensive library of movies and TV shows.",
+      "features": [
+        "4K HDR support",
+        "Voice remote",
+        "Easy setup",
+        "WiFi connectivity"
+      ],
+      "rating": 4.2,
+      "company": "netflix"
+    },
+    {
+      "name": "Samsung Galaxy S22 Ultra",
+      "price": 1199,
+      "description": "The flagship smartphone from Samsung with an advanced camera system and powerful performance.",
+      "features": [
+        "Snapdragon 8 Gen 2",
+        "108MP main camera",
+        "S Pen support",
+        "120Hz AMOLED display"
+      ],
+      "rating": 4.7,
+      "company": "samsung"
+    }
+  ]
+  
